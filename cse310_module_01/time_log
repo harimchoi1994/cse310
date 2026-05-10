@@ -1,0 +1,46 @@
+# CSE 310 - Sprint Time Log
+
+Name: Harim Choi
+
+Sprint #: 
+
+## Instructions
+
+Record all CSE 310 work that you do either inside class or outside of class. Include time learning, practicing, developing, testing, and documenting.
+
+For the Category column, record one of the following:
+
+* IM - Individual Module
+* TP - Team Project
+* MTG - Class Meetings
+
+## Time Log
+
+|Date      |Start Time|Category|Description                                  |Total Minutes|
+|----------|----------|:------:|---------------------------------------------|:-----------:|
+|04/28     |12:45 PM  |MTG/TP  |Class meeting and team project planning      |90|
+|04/28     |5:00 PM   |IM      |Looked for Zelda dataset and checked CSV files|90|
+|04/29     |6:30 PM   |IM      |Loaded CSV files with Python and Pandas      |90|
+|04/30     |12:45 PM  |MTG/TP  |Class meeting and team project work          |90|
+|04/30     |7:00 PM   |IM      |Worked on filtering and sorting Zelda data   |90|
+|05/01     |10:00 AM  |IM      |Worked on aggregation and data questions     |90|
+|05/04     |3:30 PM   |IM      |Tested Pandas code and fixed small problems  |90|
+|05/05     |12:45 PM  |MTG/TP  |Stand-up meeting and team project work       |90|
+|05/05     |5:30 PM   |TP      |Worked on server setup plan and database schema ideas|90|
+|05/06     |6:00 PM   |IM      |Worked on README and project documentation   |90|
+|05/07     |7:30 PM   |TP      |Organized database schema and table structure work|90|
+|05/08     |10:57 AM  |TP      |Submitted the team assignment on GitHub      |10|
+|05/08     |4:30 PM   |IM      |Prepared video script and checked project requirements|75|
+|05/09     |9:30 AM   |IM      |Worked on final testing and video preparation|75|
+|05/09     |5:00 PM   |IM      |Created personal GitHub repository and updated project files|60|
+
+_Note: I missed class on Thursday, 05/07, so that class time is not counted in my MTG/TP class time._
+
+## Sprint Totals
+
+|Categroy                       |Total Time (Hours:Minutes)|
+|-------------------------------|:------------------------:|
+|IM - Individual Module         |11:00|
+|TP - Team Project              |3:10|
+|MTG/TP - Class Meetings and Team Project Work|4:30|
+|**TOTAL**                      |**18:40**|

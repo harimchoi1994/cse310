@@ -1,0 +1,46 @@
+# Zelda Data Analysis
+
+This project analyzes Zelda Breath of the Wild data using Python and Pandas. I used creature and material data from the Hyrule Compendium. I chose this dataset because I like Zelda, and I wanted to practice data analysis with something more fun.
+
+For this project, I answered two questions about the data. First, I checked which creature types recover the most hearts on average. Second, I checked which material types recover the most hearts on average. I used filtering, sorting, and aggregation in my code. I also made a graph for the stretch challenge.
+
+## Instructions for Build and Use
+
+Steps to build and/or run the software:
+
+1. Install Python.
+2. Install pandas and matplotlib.
+3. Put the CSV files in the same folder as main.py.
+4. Run the program with `python main.py`.
+
+Instructions for using the software:
+
+1. Open the project folder in VS Code.
+2. Make sure the two Zelda CSV files are in the project folder.
+3. Run `main.py`.
+4. Look at the printed results and the graph.
+
+## Development Environment
+
+To recreate the development environment, you need the following software and libraries:
+
+* Python
+* Pandas
+* Matplotlib
+* VS Code
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+* [Kaggle](https://www.kaggle.com/)
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Add more Zelda datasets
+* [ ] Make more graphs
+* [ ] Compare creatures and materials together
